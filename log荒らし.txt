@@ -1,0 +1,4 @@
+{"Block":{"name":"minecraft:beehive","states":{"direction":0,"honey_level":0},"version":2561},"Count":1b,"Damage":0s,"Name":"minecraft:beehive","WasPickedUp":0b,"tag":{"Name":"§sflash","Occupants":[
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/tellraw @p {"rawtext":[{"text":"§ekakipanが世界にやってきました"}]}","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/tellraw @p {"rawtext":[{"text":"§eABJonTOP!!!が世界にやってきました"}]}","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
+"display":{"Name":"ﾂｧdlog"},"ench":[{"id":28s,"lvl":1s}]}}
