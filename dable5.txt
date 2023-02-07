@@ -1,0 +1,5 @@
+{"Block":{"name":"minecraft:moving_block","states":{},"version":2561},"Count":1b,"Damage":0s,"Name":"minecraft:moving_block","WasPickedUp":0b,"tag":
+{"display":{"Name":"アイテムの名前"},
+"movingBlock":{"name":"minecraft:1個目のブロック"},
+"movingBlockExtra":{"name":"minecraft:2個目のブロック"},
+"movingBlockExtra":{"name":"minecraft:3個目のブロック"}}}
